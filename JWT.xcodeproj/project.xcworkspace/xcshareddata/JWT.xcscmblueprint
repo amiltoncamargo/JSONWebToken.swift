@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "eaba237f-b77b-46bd-8453-ff357e426f53++8850",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "eaba237f-b77b-46bd-8453-ff357e426f53++8850" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "eaba237f-b77b-46bd-8453-ff357e426f53++8850" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9ED1BFB9-3715-4A44-998B-ECCC15518534",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "eaba237f-b77b-46bd-8453-ff357e426f53++8850" : "ajustesConfiguracao\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JWT",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sdk\/ios\/JSONWebToken\/JWT.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.64.12.58\/subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "eaba237f-b77b-46bd-8453-ff357e426f53++8850"
+    }
+  ]
+}
