@@ -1,4 +1,5 @@
-module CommonCrypto [system] {
+// Commented to build on XCode 10
+/*module CommonCrypto [system] {
     header "shim.h"
     export *
-}
+}*/

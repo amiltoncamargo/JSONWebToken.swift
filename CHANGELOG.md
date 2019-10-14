@@ -1,10 +1,9 @@
 # JSON Web Token Changelog
 
-## 2.2.0
+## Master
 
 ### Enhancements
 
-- On Apple platforms, JSONWebToken will use the system CommonCrypto where possible.
 - Allow passing additional headers when encoding a JWT.
 - Allow passing leeway parameter for date checks when verifying a JWT.
 
